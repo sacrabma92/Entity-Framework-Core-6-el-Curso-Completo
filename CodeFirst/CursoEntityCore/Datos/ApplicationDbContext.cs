@@ -17,5 +17,6 @@ namespace CursoEntityCore.Datos
         // 2- CUando agregue una nueva propiedad (Crear un campo nuevo en la bd)
         // 3- Cuando modifique un valor de campo en la bd (Modificar un campo en la bd)
         public DbSet<Usuario> Usuario { get; set; }
+        public DbSet<Articulo> Articulo { get; set; }
     }
 }

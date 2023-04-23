@@ -3515,11 +3515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\CursoEntityCore\\CursoEntityCore\\CursoEntityCore.csproj",
+      "projectUniqueName": "G:\\C#\\CursoEntityCore\\CodeFirst\\CursoEntityCore\\CursoEntityCore.csproj",
       "projectName": "CursoEntityCore",
-      "projectPath": "G:\\C#\\CursoEntityCore\\CursoEntityCore\\CursoEntityCore.csproj",
+      "projectPath": "G:\\C#\\CursoEntityCore\\CodeFirst\\CursoEntityCore\\CursoEntityCore.csproj",
       "packagesPath": "C:\\Users\\Carlos Ramirez\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\CursoEntityCore\\CursoEntityCore\\obj\\",
+      "outputPath": "G:\\C#\\CursoEntityCore\\CodeFirst\\CursoEntityCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carlos Ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",

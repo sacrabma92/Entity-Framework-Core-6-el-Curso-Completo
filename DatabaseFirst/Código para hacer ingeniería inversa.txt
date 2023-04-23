@@ -1,0 +1,1 @@
+Scaffold-DbContext 'Server=AQUI\SUSERVIDOR;Database=AQUI_BASE_DATOS;User ID=AQUI_USUARIO;Password=AQUI_PASSWORD' Microsoft.EntityFrameworkCore.SqlServer -UseDatabaseNames -DataAnnotations -Context ApplicationDbContext -ContextDir Datos -OutputDir Models

@@ -1,0 +1,1 @@
+https://docs.microsoft.com/es-es/ef/core/managing-schemas/scaffolding?tabs=vs

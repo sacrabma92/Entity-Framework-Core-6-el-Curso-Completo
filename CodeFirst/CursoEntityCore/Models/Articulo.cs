@@ -25,5 +25,11 @@ namespace CursoEntityCore.Models
         [DataType(DataType.Date)]
         public DateTime Fecha { get; set; }
 
+        [ForeignKey("Categoria")]
+        public int Categoria_Id { get; set; }
+        public Categoria Categoria { get; set; }
+
+        // Para relacion de Muchos a Mchos
+        public ICollection<ArticuloEtiqueta> ArticuloEtiqueta { get; set; }
     }
 }

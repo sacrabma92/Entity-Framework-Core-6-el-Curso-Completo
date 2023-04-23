@@ -18,5 +18,11 @@ namespace CursoEntityCore.Models
 
         [NotMapped]
         public int Edad { get; set; }
+
+
+        // LLave foranea
+        [ForeignKey("DetalleUsuario")]
+        public int DetalleUsuario_Id { get; set; }
+        public DetalleUsuario DetalleUsuario { get; set; }
     }
 }

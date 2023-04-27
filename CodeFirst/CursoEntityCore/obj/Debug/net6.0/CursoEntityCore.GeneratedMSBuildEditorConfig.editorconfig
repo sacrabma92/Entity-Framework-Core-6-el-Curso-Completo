@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CursoEntityCore
 build_property.RootNamespace = CursoEntityCore
-build_property.ProjectDir = G:\C#\CursoEntityCore\CodeFirst\CursoEntityCore\
+build_property.ProjectDir = D:\PROYECTOS\C#\Entity-Framework-Core-6-el-Curso-Completo\CodeFirst\CursoEntityCore\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\C#\CursoEntityCore\CodeFirst\CursoEntityCore
+build_property.MSBuildProjectDirectory = D:\PROYECTOS\C#\Entity-Framework-Core-6-el-Curso-Completo\CodeFirst\CursoEntityCore
 build_property._RazorSourceGeneratorDebug = 
 
-[G:/C\#/CursoEntityCore/CodeFirst/CursoEntityCore/Views/Categorias/Index.cshtml]
+[D:/PROYECTOS/C\#/Entity-Framework-Core-6-el-Curso-Completo/CodeFirst/CursoEntityCore/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/C\#/CursoEntityCore/CodeFirst/CursoEntityCore/Views/Home/Index.cshtml]
+[D:/PROYECTOS/C\#/Entity-Framework-Core-6-el-Curso-Completo/CodeFirst/CursoEntityCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/C\#/CursoEntityCore/CodeFirst/CursoEntityCore/Views/Home/Privacy.cshtml]
+[D:/PROYECTOS/C\#/Entity-Framework-Core-6-el-Curso-Completo/CodeFirst/CursoEntityCore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/C\#/CursoEntityCore/CodeFirst/CursoEntityCore/Views/Shared/Error.cshtml]
+[D:/PROYECTOS/C\#/Entity-Framework-Core-6-el-Curso-Completo/CodeFirst/CursoEntityCore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/C\#/CursoEntityCore/CodeFirst/CursoEntityCore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/PROYECTOS/C\#/Entity-Framework-Core-6-el-Curso-Completo/CodeFirst/CursoEntityCore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/C\#/CursoEntityCore/CodeFirst/CursoEntityCore/Views/_ViewImports.cshtml]
+[D:/PROYECTOS/C\#/Entity-Framework-Core-6-el-Curso-Completo/CodeFirst/CursoEntityCore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/C\#/CursoEntityCore/CodeFirst/CursoEntityCore/Views/_ViewStart.cshtml]
+[D:/PROYECTOS/C\#/Entity-Framework-Core-6-el-Curso-Completo/CodeFirst/CursoEntityCore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/C\#/CursoEntityCore/CodeFirst/CursoEntityCore/Views/Shared/_Layout.cshtml]
+[D:/PROYECTOS/C\#/Entity-Framework-Core-6-el-Curso-Completo/CodeFirst/CursoEntityCore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l01q1273i0

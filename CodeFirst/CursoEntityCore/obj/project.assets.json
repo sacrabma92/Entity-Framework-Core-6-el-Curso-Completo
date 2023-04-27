@@ -3510,19 +3510,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carlos Ramirez\\.nuget\\packages\\": {}
+    "C:\\Users\\karlo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\CursoEntityCore\\CodeFirst\\CursoEntityCore\\CursoEntityCore.csproj",
+      "projectUniqueName": "D:\\PROYECTOS\\C#\\Entity-Framework-Core-6-el-Curso-Completo\\CodeFirst\\CursoEntityCore\\CursoEntityCore.csproj",
       "projectName": "CursoEntityCore",
-      "projectPath": "G:\\C#\\CursoEntityCore\\CodeFirst\\CursoEntityCore\\CursoEntityCore.csproj",
-      "packagesPath": "C:\\Users\\Carlos Ramirez\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\CursoEntityCore\\CodeFirst\\CursoEntityCore\\obj\\",
+      "projectPath": "D:\\PROYECTOS\\C#\\Entity-Framework-Core-6-el-Curso-Completo\\CodeFirst\\CursoEntityCore\\CursoEntityCore.csproj",
+      "packagesPath": "C:\\Users\\karlo\\.nuget\\packages\\",
+      "outputPath": "D:\\PROYECTOS\\C#\\Entity-Framework-Core-6-el-Curso-Completo\\CodeFirst\\CursoEntityCore\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Carlos Ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3582,7 +3587,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
